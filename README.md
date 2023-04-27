@@ -4,12 +4,13 @@ Maker Media GmbH
 
 ***
 
-# Sauerteig
+# Sauerteig aus dem IoT-Einmachglas
 
-** so geht's.**
+**Sauerteig selber machen ist seit Corona in gewissen Kreisen in – aber mit Ultraschallsensor, ESP32 und Grafana-Visualisierung wird das Überwachen des Teig-Gehens gleich drei Klassen nerdiger. So geht's.**
 
 ![Picture](./Aufmacher.jpg) 
 
 Den vollständigen Artikel gibt es in der [Make 3/23 ab Seite !!!]().
+
 
 
