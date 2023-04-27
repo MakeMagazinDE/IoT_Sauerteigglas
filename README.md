@@ -10,7 +10,7 @@ Maker Media GmbH
 
 ![Picture](./Aufmacher.jpg) 
 
-Den vollständigen Artikel gibt es in der [Make 3/23 ab Seite !!!]().
+Den vollständigen Artikel gibt es in der [Make 3/23 ab Seite !!!](). 
 
 
 
